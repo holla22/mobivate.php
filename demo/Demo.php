@@ -5,10 +5,10 @@ require_once(dirname(__FILE__) . "/../bulksms/BulkSMS.php");
 
 
 // Defaults
-$USERNAME = "facebook_10155227500195761";
-$PASSWORD = "e650cef62513b378d60e8311d2ca4f2c";
+$USERNAME = "demo";
+$PASSWORD = "demo";
 
-$recipient = "447932400495";
+$recipient = "447xxxxxxxxxxx";
 $bulksms = new Blender\Client\BulkSMS();
 
 
